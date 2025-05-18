@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# Django specific
+*.log
+local_settings.py
+db.sqlite3
+media/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+
+# Unnecessary files
+*.pot
+
+# OS or Editor folders
+.vscode/
